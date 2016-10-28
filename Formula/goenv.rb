@@ -1,8 +1,8 @@
 class Goenv < Formula
   desc "Like pyenv and rbenv, but for Go."
   homepage "https://github.com/syndbg/goenv"
-  url "https://github.com/syndbg/goenv/archive/v20160814.tar.gz"
-  sha256 "715af41eb25b4f4f7c41df002e8e508f29fbe90a8dc7b566198098ca47a1d640"
+  url "https://github.com/syndbg/goenv/archive/20161028.tar.gz"
+  sha256 "3f283537c2b4f64a7549a009361ac4da6115be6b2c45462b008a58f8366a8804"
   head "https://github.com/syndbg/goenv.git"
 
   bottle :unneeded
